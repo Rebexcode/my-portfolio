@@ -25,8 +25,8 @@ const PROJECTS = [
     description:
       "An interactive deployment of the clinical prediction model, letting a user input patient parameters and get a real-time risk read — turning a notebook model into something a non-technical user can actually act on.",
     chips: ["Streamlit", "Python", "Model Deployment"],
-    link: "https://github.com/Rebexcode/heart-attack-streamlit",
-    linkLabel: "View on GitHub",
+    link: "https://rebexcode-heart-attack-streamlit-app-3tb9is.streamlit.app/",
+    linkLabel: "View live prediction app",
     readoutTitle: "What it demonstrates",
     metrics: [
       { label: "Input → Output", value: "Live risk score", small: true },
