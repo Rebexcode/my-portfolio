@@ -23,15 +23,15 @@ export default function About() {
           <div className="about-copy">
             <p>
               I&apos;m a <strong>Computer Science graduate</strong> working across the full
-              ML lifecycle — from exploratory analysis and feature engineering to model
+              ML lifecycle, from exploratory analysis and feature engineering to model
               evaluation and deployment. My core toolkit is{" "}
               <strong>classification, regression, and clustering</strong>, built in Python
               and scikit-learn.
             </p>
             <p>
-              My strongest thread of work is <strong>healthcare ML</strong>: an
-              undergraduate thesis benchmarking algorithms on cardiac datasets surfaced a
-              real problem — models trained on Western populations don&apos;t generalize
+              My strongest thread of work is <strong>healthcare ML</strong>: a 
+              clinical predictive model benchmarking algorithms on cardiac datasets surfaced a
+              real problem; models trained on Western populations don&apos;t generalize
               well to Nigerian patient data. That finding shapes most of what I build now.
             </p>
             <p>

@@ -6,7 +6,7 @@ const PROJECTS = [
     tag: "Flagship — Clinical ML",
     title: "Heart Attack Prediction for Hypertensive Patients",
     description:
-      "A 1,190-patient cardiac dataset, filtered to isolate hypertensive patients — a subgroup at meaningfully higher cardiac risk. Engineered interaction features (age × max heart rate, BP × cholesterol), corrected class imbalance with SMOTE, and benchmarked three models to find the strongest predictor of risk in this specific population.",
+      "A 1,190-patient cardiac dataset, filtered to isolate hypertensive patients, a subgroup at meaningfully higher cardiac risk. Engineered interaction features (age × max heart rate, BP × cholesterol), corrected class imbalance with SMOTE, and benchmarked three models to find the strongest predictor of risk in this specific population.",
     chips: ["Python", "scikit-learn", "XGBoost", "SMOTE", "Random Forest"],
     link: "https://github.com/Rebexcode/Heart-Attack-Prediction-for-Hypertensive-Patients",
     linkLabel: "View on GitHub",
@@ -23,7 +23,7 @@ const PROJECTS = [
     tag: "Deployment",
     title: "Heart Attack Prediction — Streamlit App",
     description:
-      "An interactive deployment of the clinical prediction model, letting a user input patient parameters and get a real-time risk read — turning a notebook model into something a non-technical user can actually act on.",
+      "An interactive deployment of the clinical prediction model, letting a user input patient parameters and get a real-time risk read; turning a notebook model into something a non-technical user can actually act on.",
     chips: ["Streamlit", "Python", "Model Deployment"],
     link: "https://rebexcode-heart-attack-streamlit-app-3tb9is.streamlit.app/",
     linkLabel: "View live prediction app",
@@ -39,7 +39,7 @@ const PROJECTS = [
     tag: "Fundamentals",
     title: "Regression Techniques — A Comparative Study",
     description:
-      "A deliberate pass through the regression family — Linear, Multiple Linear, Polynomial, Logistic, Decision Tree, Random Forest, and Support Vector Regression — each implemented from the ground up to build intuition for when and why each one breaks down.",
+      "A deliberate pass through the regression family: Linear, Multiple Linear, Polynomial, Logistic, Decision Tree, Random Forest, and Support Vector Regression — each implemented from the ground up to build intuition for when and why each one breaks down.",
     chips: ["Linear", "Polynomial", "Logistic", "Decision Tree", "SVR"],
     link: "https://github.com/Rebexcode?tab=repositories&q=regression%22",
     linkLabel: "View repositories",
