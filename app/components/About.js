@@ -8,9 +8,9 @@ export default function About() {
           <div>
             <div className="eyebrow">About</div>
             <h2 className="section-title">
-              Backend instincts,
+              My background
               <br />
-              ML focus.
+              and focus
             </h2>
           </div>
           <div className="section-note">
