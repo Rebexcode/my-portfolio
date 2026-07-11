@@ -11,8 +11,8 @@ export default function Hero() {
           </h1>
           <div className="hero-role mono">ML Engineer — Data Scientist </div>
           <p className="hero-desc">
-            I build classification, regression, and clustering models that hold up outside
-            the training set — with a research focus on clinical AI and domain adaptation
+            I build machine learning models that hold up outside
+            the training set; with a research focus on clinical AI and domain adaptation
             for underrepresented patient populations.
           </p>
           <div className="hero-cta">
