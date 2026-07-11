@@ -5,9 +5,9 @@ export default function Hero() {
         <div>
           <div className="eyebrow hero-eyebrow">Machine Learning &amp; Data Science</div>
           <h1 className="name">
-            Predictive models
-            <br />
-            <em>for real</em> patients.
+            Building pipelines
+            <br /> that
+            <em>generalize</em>.
           </h1>
           <div className="hero-role mono">ML Engineer — Data Scientist </div>
           <p className="hero-desc">
