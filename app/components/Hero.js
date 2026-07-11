@@ -8,7 +8,7 @@ export default function Hero() {
             Building pipelines
             <br /> 
             that 
-            <em>generalize</em>.
+            <em> generalize</em>.
           </h1>
           <div className="hero-role mono">ML Engineer — Data Scientist </div>
           <p className="hero-desc">
