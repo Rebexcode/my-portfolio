@@ -41,7 +41,7 @@ const PROJECTS = [
     description:
       "A deliberate pass through the regression family — Linear, Multiple Linear, Polynomial, Logistic, Decision Tree, Random Forest, and Support Vector Regression — each implemented from the ground up to build intuition for when and why each one breaks down.",
     chips: ["Linear", "Polynomial", "Logistic", "Decision Tree", "SVR"],
-    link: "https://github.com/Rebexcode?tab=repositories",
+    link: "https://github.com/Rebexcode?tab=repositories&q=regression%22",
     linkLabel: "View repositories",
     readoutTitle: "Methods covered",
     metrics: [
